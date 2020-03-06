@@ -1,5 +1,5 @@
 # Fondamenti-di-Comunicazione-e-Internet
-Repository (non ufficiale!) dedicata al corso Fondamenti di Comunicazione ed Internet, tenuto dal professor Francesco Mesumeci, dell'anno scolastico 2019/2020.
+Repository (non ufficiale!) dedicata al corso Fondamenti di Comunicazione ed Internet, tenuto dal professor Francesco Musumeci, dell'anno scolastico 2019/2020.
 
 ## Materiale didattico
 Durante i laboratori ed anche alcune lezioni sui protocolli applicativi useremo diversi strumenti software per l'analisi delle prestazioni di reti. Per facilitarvi la vita, abbiamo preparato un'immagine di una macchina virtuale Linux che contiene già tutti gli strumenti che serviranno durante il corso. Per attivare la macchina virtuale:
